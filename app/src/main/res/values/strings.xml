@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">АУ!</string>
+
+    <string name="lat">широта:</string>
+
+    <string name="altit">висота над рівнем моря:</string>
+
+    <string name="lalt">точність:</string>
+
+    <string name="longat">довгота:</string>
+
+    <string name="adres">адреса:</string>
+
+    <string name="h1">Заберіть мене звідси:</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="start">start</string>
+
+    <string name="stop">stop</string>
+
+    <string name="send">поділитись</string>
+    <string name="otr">отримуємо\nкоординати</string>
+</resources>
